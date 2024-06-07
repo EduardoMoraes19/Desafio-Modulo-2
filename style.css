@@ -37,7 +37,7 @@ header{
 }
 
 nav{
-    padding: 3px;
+    padding: 5px;
 }
 
 nav > a:hover{
@@ -68,10 +68,48 @@ span{
     font-family: "idroid";
     font-size: 28px;
     padding-left: 20px;
+    color: #195C37;
 }
 
 main > p{
     font-weight: bold;
     text-align: justify;
     padding: 20px;
+}
+
+.sub-titulo-main{
+    font-family: "idroid";
+    padding-left: 20px;
+    color: #195C37;
+    background: linear-gradient(to right, #C5EBD6, #F8FDFA );
+}
+
+a{
+    color: #195C37;
+    text-decoration: none;
+}
+
+.img-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#video-android{
+    background-color: #195C37;
+    padding: 20px;
+}
+
+footer{
+    background-color: #195C37;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#video-android{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
