@@ -24,16 +24,19 @@ header{
 
 #titulo-header{
     text-align: center;
-    padding: 10px;
-    font-family: "Russo One", sans-serif;
-    color: black;
+    padding: 5px;
+    font-family:"Bebas Neue", sans-serif;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-style: normal;
 }
 
 #txt-header{
     text-align: center;
-    margin: 20px;
+    margin: 13px;
     font-size: 11px;
-    padding: 15px;
+    padding: 10px;
 }
 
 nav{
