@@ -53,7 +53,8 @@ header{
 }
 
 nav{
-    padding: 10px;
+    padding: 5px;
+    padding-bottom: 10px;
 }
 
 nav > a:hover{
@@ -154,4 +155,8 @@ aside{
 
 #desenvolvedor{
     color: #F8FDFA;
+}
+
+aside{
+    padding: 10px 10px 0px 10px;
 }
